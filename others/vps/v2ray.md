@@ -2,7 +2,7 @@
 
 2020/01/31 更新
 
-* Windows推荐使用V2rayN，[GitHub下载](https://github.com/2dust/v2rayN/) ，依赖详见仓库说明。使用和更新都比QV2ray方便，但感觉性能没有QV2ray好，Android端也是Kitsunebi性能比V2rayNG好。
+* Windows推荐使用V2rayN，[GitHub下载](https://github.com/2dust/v2rayN/)。使用和更新都比QV2ray方便，但感觉性能没有QV2ray好，Android端也是Kitsunebi性能比V2rayNG好。
 * iOS客户端可以使用最新的shadowrocket，需手动配置。
 * 不同系列的软件二维码，url不能互扫互加。同系列比如都带有v2ray字样的可以，shadowrocket的二维码只shadowrocket可以用，Kitsunebi同样。
 
